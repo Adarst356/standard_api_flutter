@@ -1,0 +1,1 @@
+const baseUrls = "https://api.escuelajs.co/api/v1";
